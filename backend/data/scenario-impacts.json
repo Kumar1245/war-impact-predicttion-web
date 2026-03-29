@@ -1,0 +1,62 @@
+{
+  "middle-east": {
+    "low": {
+      "oilPriceImpact": "+5%",
+      "marketVolatility": "+15%",
+      "economicGrowth": "-0.5%",
+      "confidence": "Moderate concern"
+    },
+    "medium": {
+      "oilPriceImpact": "+20%",
+      "marketVolatility": "+35%",
+      "economicGrowth": "-1.5%",
+      "confidence": "High uncertainty"
+    },
+    "high": {
+      "oilPriceImpact": "+45%",
+      "marketVolatility": "+70%",
+      "economicGrowth": "-3.0%",
+      "confidence": "Severe disruption"
+    }
+  },
+  "europe": {
+    "low": {
+      "oilPriceImpact": "+3%",
+      "marketVolatility": "+10%",
+      "economicGrowth": "-0.3%",
+      "confidence": "Minor impact"
+    },
+    "medium": {
+      "oilPriceImpact": "+15%",
+      "marketVolatility": "+25%",
+      "economicGrowth": "-1.0%",
+      "confidence": "Significant concern"
+    },
+    "high": {
+      "oilPriceImpact": "+35%",
+      "marketVolatility": "+55%",
+      "economicGrowth": "-2.5%",
+      "confidence": "Major crisis"
+    }
+  },
+  "default": {
+    "low": {
+      "oilPriceImpact": "+2%",
+      "marketVolatility": "+8%",
+      "economicGrowth": "-0.2%",
+      "confidence": "Limited impact"
+    },
+    "medium": {
+      "oilPriceImpact": "+12%",
+      "marketVolatility": "+20%",
+      "economicGrowth": "-0.8%",
+      "confidence": "Moderate impact"
+    },
+    "high": {
+      "oilPriceImpact": "+25%",
+      "marketVolatility": "+40%",
+      "economicGrowth": "-1.8%",
+      "confidence": "High impact"
+    }
+  }
+}

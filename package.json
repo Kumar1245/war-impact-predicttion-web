@@ -1,0 +1,19 @@
+{
+  "name": "war-impact-project",
+  "version": "1.0.0",
+  "description": "War Impact Research Platform - Full Stack",
+  "scripts": {
+    "install:all": "npm install && cd backend && npm install && cd ../python-service && pip install -r requirements.txt",
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:python\"",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:python": "cd python-service && python app.py",
+    "start": "concurrently \"npm run start:backend\" \"npm run start:python\"",
+    "start:backend": "cd backend && npm start",
+    "start:python": "cd python-service && python app.py",
+    "frontend": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

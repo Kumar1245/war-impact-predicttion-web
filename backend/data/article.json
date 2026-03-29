@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "title": "Impact of War on Oil Prices",
+    "slug": "impact-of-war-on-oil-prices",
+    "excerpt": "Analysis of how geopolitical tensions affect global oil markets and energy security.",
+    "category": "Markets",
+    "author": "Dr. Sarah Chen",
+    "date": "2024-12-15",
+    "content": {
+      "overview": "Geopolitical tensions in major oil-producing regions have historically led to significant volatility in crude oil prices. This analysis examines the relationship between conflict events and oil market dynamics, focusing on supply chain disruptions, strategic reserves, and long-term price trends.",
+      "upDown": {
+        "increases": ["Oil prices", "Energy stocks", "Defense stocks", "Gold"],
+        "decreases": ["Airlines", "Shipping", "Manufacturing", "Consumer goods"]
+      },
+      "chartData": [
+        { "month": "Jan", "price": 78 },
+        { "month": "Feb", "price": 82 },
+        { "month": "Mar", "price": 95 },
+        { "month": "Apr", "price": 112 },
+        { "month": "May", "price": 108 },
+        { "month": "Jun", "price": 104 }
+      ],
+      "sectorImpact": [
+        { "sector": "Energy", "impact": "Positive", "change": "+15%", "description": "Increased demand and supply constraints" },
+        { "sector": "Airlines", "impact": "Negative", "change": "-12%", "description": "Higher fuel costs impact margins" },
+        { "sector": "Defense", "impact": "Positive", "change": "+8%", "description": "Increased government spending" },
+        { "sector": "Renewables", "impact": "Positive", "change": "+5%", "description": "Accelerated energy transition" }
+      ],
+      "keyInsights": [
+        "Oil prices typically spike 20-30% within the first month of conflict onset",
+        "Market volatility increases by 40% during geopolitical crises",
+        "Strategic petroleum reserves help stabilize markets but have limited long-term impact",
+        "Alternative energy investments see increased attention during supply disruptions"
+      ],
+      "conclusion": "While conflicts create immediate price shocks, the long-term impact depends on conflict duration, global response, and the acceleration of energy transition policies."
+    }
+  },
+  {
+    "id": "2",
+    "title": "How Conflict Affects Global Markets",
+    "slug": "how-conflict-affects-global-markets",
+    "excerpt": "Understanding market volatility during times of geopolitical uncertainty.",
+    "category": "Economy",
+    "author": "Michael Rodriguez",
+    "date": "2024-12-14",
+    "content": {
+      "overview": "Global financial markets react swiftly to geopolitical tensions, with effects cascading across asset classes and regions.",
+      "upDown": {
+        "increases": ["Gold", "USD", "Defense stocks", "Government bonds"],
+        "decreases": ["Equities", "Emerging markets", "Commodities (non-energy)", "Tourism stocks"]
+      },
+      "chartData": [
+        { "month": "Jan", "volatility": 12 },
+        { "month": "Feb", "volatility": 15 },
+        { "month": "Mar", "volatility": 28 },
+        { "month": "Apr", "volatility": 32 },
+        { "month": "May", "volatility": 25 },
+        { "month": "Jun", "volatility": 18 }
+      ],
+      "sectorImpact": [
+        { "sector": "Financial", "impact": "Mixed", "change": "-5%", "description": "Increased volatility but safe-haven flows" },
+        { "sector": "Technology", "impact": "Negative", "change": "-8%", "description": "Supply chain disruptions" },
+        { "sector": "Agriculture", "impact": "Negative", "change": "-10%", "description": "Trade route disruptions" }
+      ],
+      "keyInsights": [
+        "Market volatility index (VIX) increases 50-80% during conflicts",
+        "Flight to safety drives government bond yields down 0.5-1.0%",
+        "Currency markets see increased hedging activity"
+      ],
+      "conclusion": "Markets demonstrate resilience over time, but short-term volatility requires careful portfolio management."
+    }
+  }
+]
